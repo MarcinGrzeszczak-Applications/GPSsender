@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.myapps.gpssender.SendingScreen">
+
+    <AutoCompleteTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/send_to"
+        android:id="@+id/autoCompleteContacts"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toLeftOf="@+id/quickSend"
+        android:layout_toStartOf="@+id/quickSend" />
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/bodyText"
+        android:background="@drawable/border"
+        android:hint="@string/write_text"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/relativeLayout" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#1565c0"
+        android:id="@+id/quickSend"
+        android:layout_alignTop="@+id/autoCompleteContacts"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_alignBottom="@+id/autoCompleteContacts"
+        android:layout_alignParentRight="true"
+        android:padding="8dp"
+        android:layout_alignParentEnd="true">
+
+        <View
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+
+            android:gravity="center_vertical|center_horizontal"
+            android:background="@mipmap/triangle"
+            android:id="@+id/triangle" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/autoCompleteContacts"
+        android:layout_toLeftOf="@+id/relativeLayout2"
+        android:layout_toStartOf="@+id/relativeLayout2"
+        android:layout_marginRight="38dp"
+        android:layout_marginEnd="38dp"
+        android:background="@drawable/border_btn"
+        android:padding="2dp"
+        android:id="@+id/relativeLayout">
+    <View
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+
+        android:gravity="center_vertical|center_horizontal"
+        android:background="@mipmap/point"
+        android:id="@+id/positionBtn"
+
+        />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/autoCompleteContacts"
+        android:layout_alignRight="@+id/autoCompleteContacts"
+        android:layout_alignEnd="@+id/autoCompleteContacts"
+        android:layout_marginRight="64dp"
+        android:layout_marginEnd="64dp"
+        android:id="@+id/relativeLayout2"
+        android:background="@drawable/border_btn"
+        android:padding="2dp">
+
+    <View
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+
+        android:background="@mipmap/link"
+        android:id="@+id/linkBtn"
+
+         />
+
+    </RelativeLayout>
+</RelativeLayout>

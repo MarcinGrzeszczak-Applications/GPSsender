@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_bf66009f236aab905dee8a69b1758aa5c67b99a8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="931754b5794a8283758bb4723fb37d8e49ad82a8">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0d4b1c7a55483b2d1208779f811c091da481e316/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d2ec62116ee40a8978522dbb5cceff8246d58e2c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_ccc19ccade69947cd2fbb9514d9e6d2030c2eb0e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_0f0ddbf21f20c93ed4045371a6b38f2f32b4f293/classes.dex" />
+    </item>
+    <item
+        jar="/Volumes/Inne/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_c260bf2eb2867021a89b0686d8f36b2112f67962/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_89b6d915323752513ec4ea0182f4ddb936aeb067/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_d2bd90f2643e9287b56fecccda2f99ac04e2ccb7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_19bf0d8400c299d278f66dc7606171ae23fab227/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_6e6413cbd1c548a6947222ee45e1aac4cf8f8808/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0055f7044c4a641c1eac3cb24951798ba7356080">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b291cb2e17706e1b0a160c056808485a49f64446/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/marti/Documents/AndroidStudioProjects/GPSsender_light/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_0d6c7e58906081bd7ed325619cc11fac8d951cea/classes.dex" />
+    </item>
+
+</items>

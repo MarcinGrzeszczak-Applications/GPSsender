@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GPSsender</string>
+    <string name="hello">Witaj !</string>
+    <string name="hello_text">Wyślij sowją pozycję do przyjaciół za pomocą wiadomości SMS.</string>
+    <string name="hello_text2">Pozwól odnaleźć siebie innym.</string>
+    <string name="hide_window">Nie pokazuj tego okna</string>
+    <string name="next_button">DALEJ</string>
+
+
+    <string name="write_text">Wpisz tekst ...</string>
+    <string name="send_to">Wyślij do ...</string>
+    <string name="send_button">WYŚLIJ</string>
+
+    <string name="ready_button">GOTOWE</string>
+    <string name="contact_loading">Ładowanie kontaktów</string>
+    <string name="delay_sending">Wysyłanie zaplanowane na</string>
+    <string name="sending">Wysyłanie...</string>
+</resources>
