@@ -18,7 +18,7 @@ This application is one of collage projects.
   You can skip this window during another application launching by clicking on "Don't show this window again".
    
    
-  ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Portfolio/GPSsender/master/screenshots/HelloActivity.png)
+  ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Applications/GPSsender/master/screenshots/HelloActivity.png)
    
    
    ## 2.2 Sending Message Activity
@@ -29,23 +29,23 @@ This application is one of collage projects.
    ### 2.2.1 Typing contact name
     
    
-   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Portfolio/GPSsender/master/screenshots/TypingContactName.gif)
+   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Applications/GPSsender/master/screenshots/TypingContactName.gif)
    
    
    ### 2.2.2 Writing message with location coordinate
    
-   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Portfolio/GPSsender/master/screenshots/MessageWithCoordinates.gif)
+   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Applications/GPSsender/master/screenshots/MessageWithCoordinates.gif)
 
 
    ### 2.2.3 Writing message with link to map with current location
    
-   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Portfolio/GPSsender/master/screenshots/MessageWithLink.gif)
+   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Applications/GPSsender/master/screenshots/MessageWithLink.gif)
 
    
    ### 2.2.4 Sending message
    
    
-   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Portfolio/GPSsender/master/screenshots/SendingMessage.gif)
+   ![](https://raw.githubusercontent.com/MarcinGrzeszczak-Applications/GPSsender/master/screenshots/SendingMessage.gif)
 
    
   
